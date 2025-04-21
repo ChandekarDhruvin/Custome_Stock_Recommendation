@@ -1,6 +1,4 @@
-Thank you for sharing your `app.py` and `transformer.py`. Here's an updated and detailed version of the `README.md` based on your provided code:
 
----
 
 # Custom Stock Recommendation System
 
